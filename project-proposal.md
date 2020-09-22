@@ -1,5 +1,7 @@
 # Project Proposal - Team 1 
 
+Google slide link: <https://docs.google.com/presentation/d/1_UIhphBqAjigB26Ajvjz_JeGxSQza2SXMbSpkzlzkac/edit?usp=sharing>
+
 ### Team Members
 * Ksenia
 * Pheobe
