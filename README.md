@@ -1,4 +1,4 @@
 Project 1
 
-Collectint and unsertsanding new covid data 
+Collected and Represented early covid-19 data
 
